@@ -1,6 +1,6 @@
 public class Hello {
     public static void main(String[] args) {
-        String name = "Rishi";
+        String name = "Reshab";
         int age = 20;
 
         System.out.println("Name: " + name);

@@ -1,3 +1,4 @@
+1) printing statement
 public class Student {
     public static void main(String[] args) {
         System.out.println("Hello, Java!");
@@ -6,7 +7,7 @@ public class Student {
     }
 }
 
-
+2) printing stydent detail
 public class Student{
     public static void main(String[] args) {
         System.out.println("College: ABC Engineering College");
@@ -15,6 +16,7 @@ public class Student{
     }
 }
 
+3) java
 public class Student {
     public static void main(String[] args) {
         System.out.print("Java is simple ");
@@ -28,6 +30,7 @@ public class Student {
     }
 }
 
+4) student details
 public class Student {
     public static void main(String[] args) {
         String name = "Rishi";
